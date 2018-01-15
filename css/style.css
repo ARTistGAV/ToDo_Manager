@@ -1,0 +1,15 @@
+.gamburger {
+    text-align: right;
+    font-family: verdana;
+}
+#create_task {
+    border-color: #7DF334;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+    width: 50px;
+    padding: 20px;
+    margin: 100px;
+    align: middle;
+    cursor: pointer;
+}
